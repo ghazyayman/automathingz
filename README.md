@@ -1,1 +1,1 @@
-# bash-project
+# automate things with bash
