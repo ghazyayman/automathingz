@@ -1,1 +1,3 @@
-# automate things with bash
+# automathingz 
+
+automate every kind of work with bash/shell script.
